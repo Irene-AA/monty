@@ -1,8 +1,8 @@
 # Monty Interpreter
 
-Monty 0.98 is a scripting language that is first compiled into Monty byte code (just like in Python). It relies on a unique stack, with specific instructions to manipulate it. 
+Monty 0.98 is a scripting language that is first compiled into Monty byte code (just like in Python). It uses a unique stack, with specific instructions to manipulate it. 
 
-The goal of this project is to create an interpreter for Monty ByteCode files, utilizing Stacks (LIFO) and Queues (FIFO). 
+This project creates an interpreter for Monty ByteCode files, utilizing Stacks (LIFO) and Queues (FIFO). 
 
 # Start
 
